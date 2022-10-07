@@ -1,0 +1,35 @@
+:root {
+    /* PRIMARY */
+    /* CTA TEXT */
+    --lightRed: hsl(356, 100%, 66%); 
+
+    /* CTA HOVER BACKGROUND */
+    --veryLighRed: hsl(355, 100%, 74%);
+
+    /* HEADINGS */
+    --veryDarkBlue: hsl(208, 49%, 24%);
+
+
+    /* NEUTRAL */
+    /* Text */
+    --white: hsl(0, 0, 100%);
+
+    /* Footer text */
+    --grayishBlue: hsl(240, 2%, 79%);
+
+    /* Body copy */
+    --veryDarkGrayishBlue: hsl(207, 13%, 34%);
+
+    /* Footer background */
+    --veryDarkBlackBlue: hsl(240, 10%, 16%);
+
+
+    /* GRADIENT */
+    /* Background gradient - Intro/CCTA mobile nav */
+    --gradientVeryLightRed: hsl(13, 100%, 72%);
+    --gradientLightRed: hsl(353, 100%, 62%);
+
+    /* Background gradient - body */
+    --gradientDarkGrayBlue: hsl(237, 17%, 21%);
+    --veryDarkDesaturatedBlue: hsl(237, 23%, 32%);
+}
